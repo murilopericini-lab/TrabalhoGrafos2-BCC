@@ -2,7 +2,7 @@
 
 INTEGRANTES
 
-Murilo Giareta Pericini
-Tiago Eiji Konishi
-Victor Freire do Carmo 
-Victor Hugo Brahin Affonso
+# Murilo Giareta Pericini
+# Tiago Eiji Konishi
+# Victor Freire do Carmo 
+# Victor Hugo Brahin Affonso
